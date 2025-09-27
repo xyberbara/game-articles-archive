@@ -1,2 +1,2 @@
-# game-articles-archive
+# Fixes
 Делюсь готовыми решениями проблем.
